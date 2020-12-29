@@ -1,0 +1,40 @@
+
+
+.header{
+  position: fixed;
+  top: 0;
+  width: fit-content;
+  height: fit-content;
+  padding: 2vw;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+  color: rgb(255,251,245);
+  background-color: rgb(149,108,31);
+  border-radius: 5%;
+}
+
+.blank{
+  position: absolute;
+  width: 50%;
+  z-index: -1;
+  background-color: transparent;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+
+
+.header span {
+  font-family: monospace;
+  font-size: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+
